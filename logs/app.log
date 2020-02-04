@@ -1,0 +1,56 @@
+[2020-01-14 10:17:47] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"d803c4c"}
+[2020-01-14 10:17:47] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"068e605"}
+[2020-02-03 13:56:00] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"ee84d3b"}
+[2020-02-04 09:14:53] slim-app.INFO: View posts list | SUCCESSFUL [] {"uid":"6ec7747"}
+[2020-02-04 09:16:25] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"7ded976"}
+[2020-02-04 09:19:06] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"6154f68"}
+[2020-02-04 09:19:11] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"4468d2b"}
+[2020-02-04 09:22:11] slim-app.NOTICE: View courses | UNSUCCESSFUL | Call to undefined method Illuminate\Database\Eloquent\Builder::all() [] {"uid":"4ca897f"}
+[2020-02-04 09:22:15] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"86ef8b9"}
+[2020-02-04 09:25:35] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"fe64c15"}
+[2020-02-04 09:25:38] slim-app.INFO: View course 1 | SUCCESSFUL [] {"uid":"7d58428"}
+[2020-02-04 09:25:40] slim-app.INFO: View course 2 | SUCCESSFUL [] {"uid":"37a0585"}
+[2020-02-04 09:25:43] slim-app.INFO: View course 3 | SUCCESSFUL [] {"uid":"8dd0393"}
+[2020-02-04 09:25:45] slim-app.INFO: View course 4 | SUCCESSFUL [] {"uid":"56caf43"}
+[2020-02-04 09:25:47] slim-app.INFO: View course 3 | SUCCESSFUL [] {"uid":"5129e65"}
+[2020-02-04 09:26:26] slim-app.INFO: View course 3 | SUCCESSFUL [] {"uid":"efc3320"}
+[2020-02-04 09:26:28] slim-app.NOTICE: View course 4 | UNSUCCESSFUL | No query results for model [App\Model\Course] 4 [] {"uid":"7f5fbfb"}
+[2020-02-04 09:26:38] slim-app.INFO: View course 3 | SUCCESSFUL [] {"uid":"dc7c88c"}
+[2020-02-04 09:29:13] slim-app.ERROR: View course 4 | UNSUCCESSFUL | No query results for model [App\Model\Course] 4 [] {"uid":"72763d2"}
+[2020-02-04 09:45:46] slim-app.ERROR: View course new | UNSUCCESSFUL | No query results for model [App\Model\Course] new [] {"uid":"a7fb5fd"}
+[2020-02-04 09:47:24] slim-app.ERROR: View course new | UNSUCCESSFUL | No query results for model [App\Model\Course] new [] {"uid":"56416d3"}
+[2020-02-04 09:49:24] slim-app.ERROR: View course new | UNSUCCESSFUL | No query results for model [App\Model\Course] new [] {"uid":"b557c36"}
+[2020-02-04 09:50:46] slim-app.ERROR: View course new | UNSUCCESSFUL | No query results for model [App\Model\Course] new [] {"uid":"601c035"}
+[2020-02-04 09:50:56] slim-app.ERROR: View course new | UNSUCCESSFUL | No query results for model [App\Model\Course] new [] {"uid":"39172bd"}
+[2020-02-04 09:51:04] slim-app.ERROR: View course new | UNSUCCESSFUL | No query results for model [App\Model\Course] new [] {"uid":"f3d2df5"}
+[2020-02-04 10:26:20] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"661590f"}
+[2020-02-04 10:41:47] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"f8550fb"}
+[2020-02-04 10:41:50] slim-app.INFO: View course 1 | SUCCESSFUL [] {"uid":"523331d"}
+[2020-02-04 10:41:52] slim-app.INFO: View course 2 | SUCCESSFUL [] {"uid":"67e222b"}
+[2020-02-04 10:41:56] slim-app.INFO: View course reviews 2 | SUCCESSFUL [] {"uid":"808b458"}
+[2020-02-04 10:41:59] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"1d657f9"}
+[2020-02-04 10:43:25] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"56c2ec0"}
+[2020-02-04 10:46:42] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"0df23e0"}
+[2020-02-04 10:46:54] slim-app.INFO: View course 1 review 1 | SUCCESSFUL [] {"uid":"7a4ef36"}
+[2020-02-04 10:46:57] slim-app.INFO: View course 1 review 2 | SUCCESSFUL [] {"uid":"9312a10"}
+[2020-02-04 10:47:01] slim-app.ERROR: View course 1 review 3 | UNSUCCESSFUL | No query results for model [App\Model\Review] 3 [] {"uid":"f0db059"}
+[2020-02-04 10:47:04] slim-app.INFO: View course 1 review 1 | SUCCESSFUL [] {"uid":"1bd9fc1"}
+[2020-02-04 10:49:44] slim-app.ERROR: View course 1 review 3 | UNSUCCESSFUL | No query results for model [App\Model\Review] 3 [] {"uid":"b747129"}
+[2020-02-04 10:49:44] slim-app.INFO: View course 1 review 2 | SUCCESSFUL [] {"uid":"4c61291"}
+[2020-02-04 10:49:45] slim-app.INFO: View course 1 review 1 | SUCCESSFUL [] {"uid":"659cd76"}
+[2020-02-04 10:49:46] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"240c509"}
+[2020-02-04 10:51:03] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"5459f9a"}
+[2020-02-04 10:51:19] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"1aacaf0"}
+[2020-02-04 10:51:23] slim-app.INFO: View course 1 | SUCCESSFUL [] {"uid":"e3ca9a8"}
+[2020-02-04 11:01:53] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"6dfd8c5"}
+[2020-02-04 11:03:49] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"944d8e8"}
+[2020-02-04 11:24:48] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"d93395a"}
+[2020-02-04 11:28:27] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"9f8b3c0"}
+[2020-02-04 11:28:46] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"b5e69ab"}
+[2020-02-04 11:29:03] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"a5edc9b"}
+[2020-02-04 11:45:49] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"5519c34"}
+[2020-02-04 11:46:31] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"9b05c0f"}
+[2020-02-04 11:48:08] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"83edfb5"}
+[2020-02-04 11:48:13] slim-app.INFO: View course reviews 2 | SUCCESSFUL [] {"uid":"0fb2c8e"}
+[2020-02-04 11:48:24] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"6669183"}
+[2020-02-04 11:48:31] slim-app.INFO: View course 1 review 3 | SUCCESSFUL [] {"uid":"7d77289"}

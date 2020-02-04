@@ -1,0 +1,12 @@
+id,title,url
+1,Object-Oriented PHP Basics,https://teamtreehouse.com/library/objectoriented-php-basics-2
+2,Extending Object-Oriented PHP,https://teamtreehouse.com/library/extending-objectoriented-php
+3,Designing Interfaces in PHP,https://teamtreehouse.com/library/designing-interfaces-in-php
+
+INSERT INTO "reviews" (`course_id`,`rating`,`comment`,`created_at`,`updated_at`) VALUES
+("1","5","Very informative!","2020-02-03 14:31:00","2020-02-03 14:31:00"),
+("1","5","Happy to finally start to understand objects","2020-02-03 14:31:00","2020-02-03 14:31:00")
+
+id,course_id,rating,comment
+1,1,5,Very informative!
+2,1,5,Happy to finally start to understand objects
