@@ -17,9 +17,9 @@ class Course extends Model
         return $this->hasMany('App\Model\Review')->orderBy('id','asc');
     }
 
-    public function delete()
-    {
-        parent::delete();
-        return ["message" => "The course was deleted"];
-    }
+//    public function delete()
+//    {
+//        parent::delete();
+//        return ["message" => "The course was deleted"];
+//    }
 }

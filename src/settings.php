@@ -32,10 +32,5 @@ return [
             'prefix'    => '',
             'foreign_key_constraints' => true,
         ],
-        // //Database
-        // 'db' => [
-        //     'dsn' => 'sqlite',
-        //     'database' => __DIR__ . '/course_reviews.db',
-        // ],
     ],
 ];

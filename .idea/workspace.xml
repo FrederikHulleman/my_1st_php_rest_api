@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44daa7d6-4e21-4061-984f-94c636863779" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ApiException.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencies.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependencies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Course.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Course.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_reviews.db" beforeDir="false" afterPath="$PROJECT_DIR$/src/course_reviews.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/settings.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580734493558</updated>
       <workItem from="1580734495130" duration="3777000" />
-      <workItem from="1580804860936" duration="9167000" />
+      <workItem from="1580804860936" duration="13990000" />
     </task>
     <servers />
   </component>
