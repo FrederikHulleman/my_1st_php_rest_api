@@ -44,11 +44,13 @@ $container['review'] = function($c) {
     return new App\Model\Review();
 };
 
-//Database
-// $container['db'] = function($c) {
-//     $db = $c->get('settings')['db'];
-//     $pdo = new PDO($db['dsn'].':'.$db['database']);
-//     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-//     $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
-//     return $pdo;
-// };
+$container['errorHandler'] = function ($c) {
+    return function ($request,$response,$exception) use ($c) {
+        $data = [
+            'status' => 'error',
+            'code'  => $exception->getCode(),
+            'message' => $exception->getMessage(),
+        ];
+        return $response->withJson($data,$exception->getCode());
+    };
+};

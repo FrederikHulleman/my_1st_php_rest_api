@@ -54,3 +54,5 @@
 [2020-02-04 11:48:13] slim-app.INFO: View course reviews 2 | SUCCESSFUL [] {"uid":"0fb2c8e"}
 [2020-02-04 11:48:24] slim-app.INFO: View course reviews 1 | SUCCESSFUL [] {"uid":"6669183"}
 [2020-02-04 11:48:31] slim-app.INFO: View course 1 review 3 | SUCCESSFUL [] {"uid":"7d77289"}
+[2020-02-04 14:04:08] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"97caddb"}
+[2020-02-04 14:25:51] slim-app.INFO: View courses | SUCCESSFUL [] {"uid":"42df698"}
